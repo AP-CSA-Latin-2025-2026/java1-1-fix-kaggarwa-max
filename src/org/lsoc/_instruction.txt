@@ -6,8 +6,8 @@ Go to the indentifyErrors file,
 1) Open up the file IdentifyErrors
 2) FIX the look of the file with option + shift + f (mac) [Shift + Alt + F  should work on windows]
 3) Run the code an Identify the 4 indentifyErrors and type them below [found in each try-catch]
-  A)
-  B)
-  C)
-  D)
+  A)Hello World should be in the same line to be printed on the same line; Logical Error
+  B)The code should print a triangle but it prints a sqaure instead; Logical Error
+  C)Can't divid my 0 so it is a math error; Arithmetic error
+  D)Code says to say Custom Error which throws of viewers; Runtime Error
 4)Save and sync changes with github to turn in! 
